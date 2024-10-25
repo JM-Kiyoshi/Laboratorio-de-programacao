@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-// No m ́ınimo, determine os n ́umeros inteiros equivalentes ao conjunto
-// seguinte: A BCabc 0 12 $ * + / e o caractere espa ̧co em branco.
-
 int main(){
 
     printf("A: %d\n", 'A');
